@@ -34,6 +34,7 @@ Estudiante de Diseno y Desarrollo de Software en Tecsup.
 
 - [Guia oficial de Markdown](https://www.markdownguide.org/)
 - [Mi perfil de GitHub](https://github.com/chrismontes-lab)
+- [Guía del proyecto](docs/GUIA.md)
 
 ## Captura de mi trabajo
 
